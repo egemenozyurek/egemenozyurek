@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://github.com/egemenozyurek/ReCapProject
+- 🔭 I’m currently working on [ReCapProject](https://github.com/egemenozyurek/ReCapProject)
 - 🌱 I’m currently learning C# and Angular
-- 📫 How to reach me: ozyurekegemen95@gmail.co
+- 📫 How to reach me: ozyurekegemen95@gmail.com
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/egemenozyurek67/) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://ozyurekegemen.medium.com) 
