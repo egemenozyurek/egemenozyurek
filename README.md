@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ReCapProject](https://github.com/egemenozyurek/ReCapProject)
+- 🔭 I’m currently working on [ReCapProject](https://github.com/egemenozyurek/ReCapProject) & [RecapProject-frontend](https://github.com/egemenozyurek/ReCapProject-frontend)
 - 🌱 I’m currently learning C# and Angular
 - 📫 How to reach me: ozyurekegemen95@gmail.com
 
