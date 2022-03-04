@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Egemen</h1>
 <h3 align="center">A Frontend Developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egemenozyurek&title=Commit,Followers,Repositories,Stars,PullRequest,Issues&margin-w=5" alt="egemenozyurek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egemenozyurek&title=Commit,Followers,Repositories,Stars,Issues&margin-w=5" alt="egemenozyurek" /></a> </p>
 
 - 🔭 I’m currently working on [ReCapProject](https://github.com/egemenozyurek/ReCapProject) & [RecapProject-frontend](https://github.com/egemenozyurek/ReCapProject-frontend)
 - 🌱 I’m currently learning C# and Angular
