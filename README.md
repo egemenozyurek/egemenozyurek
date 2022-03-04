@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egemenozyurek&show_icons=true&theme=radical&locale=en&layout=compact" alt="egemenozyurek" /></p>
   
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=egemenozyurek&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egemenozyurek&show_icons=true&theme=dark&locale=en" alt="egemenozyurek" width="50%" /></p>
