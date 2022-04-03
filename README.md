@@ -3,8 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egemenozyurek&title=Commit,Followers,Repositories,Stars,Issues&margin-w=5" alt="egemenozyurek" /></a> </p>
 
-- 🔭 I’m currently working on [ReCapProject](https://github.com/egemenozyurek/ReCapProject) & [RecapProject-frontend](https://github.com/egemenozyurek/ReCapProject-frontend)
-- 🌱 I’m currently learning C# and Angular
+- 🌱 I’m currently learning C# and React
 - 📫 How to reach me: ozyurekegemen95@gmail.com
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=egemenozyurek.egemenozyurek&style=flat-square&color=0088cc)
