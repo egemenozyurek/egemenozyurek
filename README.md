@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egemen</h1>
-<h3 align="center">A Frontend Developer from Turkey</h3>
+<h3 align="center">A Frontend Developer from Ireland</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egemenozyurek&title=Commit,Followers,Repositories,Stars,Issues&margin-w=5" alt="egemenozyurek" /></a> </p>
 
