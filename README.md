@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Egemen</h1>
-<h3 align="center">A Frontend Developer from Ireland</h3>
+# 'Ello, mate! 👋 Welcome to me GitHub! 🚀  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egemenozyurek&title=Commit,Followers,Repositories,Stars,Issues&margin-w=5" alt="egemenozyurek" /></a> </p>
+## 🧐 Who’s This Geezer?  
+Oi oi! The name’s [Your Name], a right keen Data Science student, always on the hunt for new challenges an’ riddles to crack. Numbers? I talk to ‘em. Data? I make it sing. Python, R, SQL? Like a proper cuppa tea—can't start me day without ‘em!  
 
-- 🌱 I’m currently learning C# and React
-- 📫 How to reach me: ozyurekegemen95@gmail.com
+## 🔥 What’s Cookin’?  
+- Doin’ all sorts of fancy stats, machine learnin’ an’ AI magic.  
+- Got me mitts on Python, R, SQL, and a bit of Bash—cos why not?  
+- Bit of an entrepreneur, always lookin’ to build summat clever.  
+- Tryin’ to make sense of the world—one dataset at a time!  
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=egemenozyurek.egemenozyurek&style=flat-square&color=0088cc)
+## 🏆 Highlights, Innit?  
+- Built predictive models that don’t just predict—they **know**.  
+- Worked with real-world datasets, cleanin’ up the mess like a proper pro.  
+- Always up for a bit of hackin' (the legal kind, mind ya).  
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/egemenozyurek67/) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://ozyurekegemen.medium.com) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-quare&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egemen-özyürek-6b2383127/)
+## 🎸 Fun Stuff  
+When I ain't crunchin’ numbers, I’m strummin’ me guitar 🎸 or mixin’ up a cocktail or two 🍸 (yep, I moonlight as a bartender—multitaskin’ level 💯).  
 
-<h3 align="left">Technologies:</h3>
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
+## 📢 Wanna Chat?  
+Fancy a chinwag about data, AI, or just life in general? Slide into me DMs or drop me a message on LinkedIn! Always up for a proper natter. Cheers! 🍻  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egemenozyurek&show_icons=true&theme=radical&locale=en&layout=compact" alt="egemenozyurek" /></p>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egemenozyurek&show_icons=true&theme=dark&locale=en" alt="egemenozyurek" width="50%" /></p>
+📌 **Fun fact:** I’m on a mission to master multiple disciplines—cos why settle for one, eh? 🚀  
