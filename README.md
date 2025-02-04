@@ -1,7 +1,7 @@
 # 'Ello, mate! 👋 Welcome to me GitHub! 🚀  
 
 ## 🧐 Who’s This Geezer?  
-Oi oi! The name’s [Your Name], a right keen Data Science student, always on the hunt for new challenges an’ riddles to crack. Numbers? I talk to ‘em. Data? I make it sing. Python, R, SQL? Like a proper cuppa tea—can't start me day without ‘em!  
+Oi oi! The name’s Egemen, a right keen Data Science student in Dublin, Ireland, always on the hunt for new challenges an’ riddles to crack. Numbers? I talk to ‘em. Data? I make it sing. Python, R, SQL? Like a proper cuppa tea—can't start me day without ‘em!  
 
 ## 🔥 What’s Cookin’?  
 - Doin’ all sorts of fancy stats, machine learnin’ an’ AI magic.  
